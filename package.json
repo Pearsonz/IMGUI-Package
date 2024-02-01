@@ -1,0 +1,24 @@
+{
+  "name": "com.pearworks.dear-imgui",
+  "displayName": "IMGUI-Multiplatform",
+  "version": "1.0.1",
+  "description": "Bloat-free Multiplatform Immediate Mode Graphical User interface",
+  "unity": "2019.3",
+  "keywords": [
+    "dear",
+    "imgui",
+    "ui"
+  ],
+  "author": {
+    "name": "PearWorks"
+  },
+  "dependencies": {
+    "com.unity.collections": "0.5.0-preview.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pearsonz/IMGUI-Unity-Multiplatform",
+    "revision": ""
+  },
+  "type": "library"
+}
